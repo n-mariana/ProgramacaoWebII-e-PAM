@@ -30,7 +30,8 @@ O aplicativo possui um botão **“Clique Aqui!!!!”**, que ao ser pressionado 
 - Alteração do texto exibido  
 
 ## Print das telas do Design  
-![Design App 1](imagens/app1-design.png)
+![Design App 1](imagens/app1-design.jpeg)
+![Design App 1](imagens/app1-design2.jpeg)
 
 ## Print das telas dos Blocos  
 ![Blocos App 1](imagens/app1-blocos.png)
@@ -54,7 +55,8 @@ Ao clicar em qualquer um deles, o usuário pode desenhar na tela com a cor escol
 - Alteração da imagem utilizada  
 
 ## Print das telas do Design  
-![Design App 2](imagens/app2-design.png)
+![Design App 2](imagens/app2-design.jpeg)
+![Design App 2](imagens/app2-design2.jpeg)
 
 ## Print das telas dos Blocos  
 ![Blocos App 2](imagens/app2-blocos.png)
@@ -71,7 +73,7 @@ O app apresenta a imagem de um liquidificador. Ao clicar na imagem:
 - O celular vibra    
 
 ## Print das telas do Design  
-![Design App 3](imagens/app3-design.png)
+![Design App 3](imagens/app3-design.jpeg)
 
 ## Print das telas dos Blocos  
 ![Blocos App 3](imagens/app3-blocos.png)
@@ -88,7 +90,9 @@ O app permite:
 - Visualizar a imagem capturada na tela principal   
 
 ## Print das telas do Design  
-![Design App 4](imagens/app4-design.png)
+![Design App 4](imagens/app4-design.jpeg)
+![Design App 4](imagens/app4-camera.jpeg)
+![Design App 4](imagens/app4-design2.jpeg)
 
 ## Print das telas dos Blocos  
 ![Blocos App 4](imagens/app4-blocos.png)
@@ -120,14 +124,14 @@ O app inicia com uma tela principal contendo dois botões:
 - Alteração das cores dos botões  
 
 ## Print das telas do Design  
-![Tela Inicial](imagens/app5-tela-inicial.png)  
-![Tela 1](imagens/app5-tela1.png)  
-![Tela 2](imagens/app5-tela2.png)  
+![Tela Inicial](imagens/app5-telainicial.jpeg)  
+![Tela 1](imagens/app5-tela1.jpeg)  
+![Tela 2](imagens/app5-tela2.jpeg)  
 
 ## Print das telas dos Blocos  
-![Blocos Tela Inicial](imagens/app5-blocos-inicial.png)  
-![Blocos Tela 1](imagens/app5-blocos-tela1.png)  
-![Blocos Tela 2](imagens/app5-blocos-tela2.png)  
+![Blocos Tela Inicial](imagens/app5-blocos1.png)  
+![Blocos Tela 1](imagens/app5-blocos2.png)  
+![Blocos Tela 2](imagens/app5-blocos3.png)  
 
 ---
 
@@ -145,7 +149,7 @@ Ao digitar um nome (exemplo: Maria) e clicar no botão, o app exibe a mensagem:
 **“Olá Maria!!!!”**   
 
 ## Print das telas do Design  
-![Design App 6](imagens/app6-design.png)
+![Design App 6](imagens/app6-design.jpeg)
 
 ## Print das telas dos Blocos  
 ![Blocos App 6](imagens/app6-blocos.png)
