@@ -15,25 +15,13 @@ Faça um programa que receba um número e diga se este número está no interval
 </head>
 <body>
 
-<form action="" method="get">
+<form action="verificar.php" method="get">
     <label>Digite um número: </label>
     <input type="number" name="n" step="any" required>
 
     <input type = "submit" value = "Verificar"> 
 
 </form>
-
-<?php
-if (isset($_GET["n"])) {
-$n = $_GET["n"];
-if ($n >= 100 && $n <= 200) {
-    echo "O número está entre 100 e 200.";
-} else {
-    echo "O número NÃO está entre 100 e 200.";
-}
-}
-?>
-
 
 
 </body>

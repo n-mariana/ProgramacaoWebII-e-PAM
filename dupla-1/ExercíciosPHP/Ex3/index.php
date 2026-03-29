@@ -17,7 +17,7 @@ O programa deve mostrar o resultado da operação.
 </head>
 <body>
     
-    <form action="" method="$_GET">
+    <form action="calcular.php" method="$_GET">
         <label>Digite o primeiro número:</label>
         <input type="number" name="n1" step="any" required>
         <br><br>
@@ -33,37 +33,6 @@ O programa deve mostrar o resultado da operação.
         <input type="submit" value="Calcular">
     </form>
 
-<?php 
-if(isset($_GET["n1"]) && isset($_GET["n2"]) && isset($_GET["op"])) {
-    $n1 = $_GET["n1"];
-    $n2 = $_GET["n2"];
-    $op = $_GET["op"];
-
-    if($op == "+") {
-
-        $r = $n1 + $n2;
-        echo "O resultado será: " . $r;
-    }
-    else if($op == "-") {
-
-        $r = $n1 - $n2;
-        echo "O resultado será: " . $r;
-    }
-    else if($op == "*") {
-
-        $r = $n1 * $n2;
-        echo "O resultado será: " . $r;
-    }
-    else if($op == "/") {
-
-        $r = $n1 / $n2;
-        echo "O resultado será: " . $r;
-    } 
-    else{
-        echo "Opção Inválida";
-    }  
-}
-?>
     
 </body>
 </html>

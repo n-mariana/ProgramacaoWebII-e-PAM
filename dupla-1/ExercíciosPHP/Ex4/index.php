@@ -21,28 +21,13 @@ Leia um número n e imprima n linhas no seguinte formato (exemplo para n = 6):
 </head>
 <body>
     
-    <form action="" method="GET">
+    <form action="imprimir.php" method="GET">
         <label>Digite um número:</label>
         <input type="number" name="n" required>
         <br>
 
         <input type="submit" value="Imprimir">
     </form>
-
-<?php 
-
-if (isset($_GET['n'])) {
-    $n = (int) $_GET['n'];
-
-    for ($i = 1; $i <= $n; $i++) {
-        for ($j = 1; $j <= $i; $j++) {
-            echo $j . " ";
-        }
-        echo "<br>"; 
-    }
-}
-
-?>
 
 </body>
 </html>

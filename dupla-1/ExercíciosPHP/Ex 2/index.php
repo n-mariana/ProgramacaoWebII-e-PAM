@@ -18,7 +18,7 @@ Fórmula: C = 5/9 × (F − 32)
 </head>
 <body>
 
-<form method="get">
+<form action = "converter.php" method="get">
     <label>Temperatura: </label>
     <input type="number" name="n" step="any" required><br><br>
 
@@ -27,23 +27,6 @@ Fórmula: C = 5/9 × (F − 32)
 
     <input type="submit" value="Converter">
 </form>
-
-<?php
-if (isset($_GET["n"]) && isset($_GET["t"])) {
-    $temp = $_GET["n"];
-    $tipo = strtoupper($_GET["t"]); // deixa maiúsculo
-
-    if ($tipo == "F") {
-        $c = 5/9 * ($temp - 32);
-        echo "Resultado: $c °C";
-    } elseif ($tipo == "C") {
-        $f = ($temp * 9/5) + 32;
-        echo "Resultado: $f °F";
-    } else {
-        echo "Digite apenas F ou C!";
-    }
-}
-?>
 
 </body>
 </html>
