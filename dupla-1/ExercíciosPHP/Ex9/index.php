@@ -1,6 +1,6 @@
 <!--
 Data: 28/03/2026
-Autor: Maria Eduarda Nascimento dos Santos
+Autor: Maria Eduarda Nascimento dos Santos; Mariana da Silva Gonçalves
 Objetivo:
 
 Exercício 9 - Média Aritmética com Função
@@ -12,36 +12,21 @@ Que receba uma lista de números reais e retorne a média aritmética.
 -->
 
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt-br">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Exercício 9</title>
+    <title>Exercício 9 - Média Aritmética</title>
 </head>
 <body>
 
-<h2>Digite uma lista de números e diremos qual é a média aritmética(atenção separe os números por ",")! </h2>
+<h2>Digite uma lista de números e diremos qual é a média aritmética (separe os números por vírgula):</h2>
 
-<form action="" method="$_GET">
+<form action="media.php" method="get">
     <label>Digite os números: </label>
-    <input type="text" name="v">
-    <input type="submit" value="calcular">
+    <input type="text" name="v" required>
+    <input type="submit" value="Calcular">
 </form>
 
-<?php 
-if (isset($_GET["v"])){
-
-    function media($v){
-        $v = explode(",", $v);
-        $v = array_map('floatval', $v);
-        $s = array_sum($v);
-        $m = $s / sizeof($v);
-        return $m;
-    }
-
-    echo "Média: " . media($_GET["v"]);
-}
-?>
- 
 </body>
 </html>
