@@ -68,10 +68,7 @@ O objetivo do aplicativo é interagir com o usuário através de som e vibraçã
 
 O app apresenta a imagem de um liquidificador. Ao clicar na imagem:  
 - Um som é reproduzido  
-- O celular vibra  
-
-### Modificações  
-- Não especificadas  
+- O celular vibra    
 
 ## Print das telas do Design  
 ![Design App 3](imagens/app3-design.png)
@@ -88,10 +85,7 @@ O objetivo do aplicativo é utilizar a câmera do celular.
 
 O app permite:  
 - Tirar uma foto usando a câmera  
-- Visualizar a imagem capturada na tela principal  
-
-### Modificações  
-- Não especificadas  
+- Visualizar a imagem capturada na tela principal   
 
 ## Print das telas do Design  
 ![Design App 4](imagens/app4-design.png)
@@ -148,10 +142,7 @@ O app possui:
 
 ### Funcionamento  
 Ao digitar um nome (exemplo: Maria) e clicar no botão, o app exibe a mensagem:  
-**“Olá Maria!!!!”**  
-
-### Modificações  
-- Não especificadas  
+**“Olá Maria!!!!”**   
 
 ## Print das telas do Design  
 ![Design App 6](imagens/app6-design.png)
