@@ -53,9 +53,8 @@ Este repositório está organizado para armazenar projetos acadêmicos das maté
 - Henrique Suhr
 
 📂 Conteúdo da pasta:
-- 📂
-- 📂    
-
+- 📂 PW2
+- 📂 app-apostila1 
 ---
 
 ## 📌 OBSERVAÇÕES
