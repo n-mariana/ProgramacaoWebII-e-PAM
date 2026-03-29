@@ -22,9 +22,9 @@ Cookies e sessions são mecanismos usados para manter dados entre requisições 
 ---
 
 ## Exercício 3 — Pergunta de investigação
-**Responsável:** (Nome)
+**Responsável:** Mariana da Silva Gonçalves
 
-*(Resposta aqui)*
+Ao executar o arquivo pela primeira vez no navegador, apareceu a mensagem "Cookie ainda não disponível". Isso aconteceu pois era a primeira vez que o código foi acessado, portanto não havia nenhum cookie salvo ainda. Ao atualizar a página, como ela foi acessada anteriormente, apareceu a seguinte mensagem: "Valor do cookie: 1", mostrando que um cookie foi salvo desde de o último acesso. Ao utilizar as ferramentas do navegador para visualizar os cookies, foi possível observar dados como: nome do cookie, valor, domínio, data de expiração, tamanho, entre outros. Ao limpar os cookies do site, a mensagem retorna a ser "Cookie ainda não disponível", pois essa ação remove os cookies do último acesso, como se o arquivo nunca tivesse sido acessado.
 
 ---
 

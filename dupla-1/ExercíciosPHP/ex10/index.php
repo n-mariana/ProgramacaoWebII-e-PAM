@@ -1,6 +1,6 @@
 <!--
 Data: 28/03/2026
-Autor: Maria Eduarda Nascimento dos Santos
+Autor: Maria Eduarda Nascimento dos Santos; Mariana da Silva Gonçalves
 Objetivo:
 
 Exercício 10 - Ano Bissexto
@@ -14,34 +14,21 @@ ou
 -->
 
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt-br">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Exercício 10</title>
+    <title>Exercício 10 - Ano Bissexto</title>
 </head>
 <body>
 
 <h2>Digite um ano e diremos se ele é bissexto ou não!</h2>
 
-<form action="" method="$_GET">
+<form action="bissexto.php" method="get">
     <label>Digite um ano: </label>
-    <input type="number" name="y">
+    <input type="number" name="y" required>
     <input type="submit" value="Verificar">
 </form>
 
-<?php 
-if (isset($_GET["y"])){
-    $y = $_GET["y"];
-
-    if($y % 400 == 0 || $y % 4 == 0 && $y % 100 != 0){
-    echo $y . " é bissexto";
-    }
-    else{
-    echo $y . " não é bissexto";
-    }
-}
-?>
-    
 </body>
 </html>
