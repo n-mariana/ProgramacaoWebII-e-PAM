@@ -63,7 +63,7 @@ Desenvolvimento de Sistemas
 
 ---
 
-# Projeto 4 – Quarta Aplicativo (pg. 64)
+# Projeto 4 – Quarto Aplicativo (pg. 64)
 
 ## Descrição  
 🎯Objetivo: tirar fotos com a camêra fotográfica
@@ -100,7 +100,7 @@ Desenvolvimento de Sistemas
 ## Descrição  
 🎯Objetivo: receber e exibir o nnome digitado.
 
-⚙️Funcionamento: na tela há uma caixa de texto, onde será digitado um nome qualquer, e logo abaixo um botão "Clique aqui", appo´s digitar o nome e clicar no botão mais abaixo será exibida a seguinte mensagem: "Olá (nome)"
+⚙️Funcionamento: na tela há uma caixa de texto, onde será digitado um nome qualquer, e logo abaixo um botão "Clique aqui", após digitar o nome e clicar no botão mais abaixo será exibida a seguinte mensagem: "Olá (nome)"
 
 ### Alterações em relação à apostila
 - Nenhuma alteração feita
