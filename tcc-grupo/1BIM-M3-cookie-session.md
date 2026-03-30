@@ -15,9 +15,19 @@ Cookies e sessions são mecanismos usados para manter dados entre requisições 
 ---
 
 ## Exercício 2 — Pergunta de aplicação
-**Responsável:** (Nome)
+**Responsável:** Henrique Suhr
 
-*(Resposta aqui)*
+### Manter o usuário logado: 
+
+Sessions são utilizadas para criar sessões assim que o usuário faz login, gerando um ID único para aquela sessão. O ID é armazenado em um cookie no navegador do usuário, assim quando for feita uma nova requisição, o navegador envia o cookie com o ID para o servidor, permitindo que ele reconheça o usuário sem necessidade do login. Com isso, a identificação é feita somente pelo ID, permitindo que dados sensíveis (como senhas) sejam mantidos no servidor, garantindo maior segurança.
+
+### Armazenar itens temporários no carrinho:
+
+Cookies podem ser utilizados para armazenar informações simples do carrinho, como os IDs dos produtos e suas quantidades, diretamente no navegador do usuário, o que permite que o carrinho seja mantido mesmo se o navegador for fechado e aberto novamente depois. Já as sessions oferecem uma alternativa em que o carrinho é mantido no servidor e vinculado ao session ID, garantindo maior segurança e controle dos dados do usuário. Portanto, cookies oferecem maior praticidade e são melhores em situações de rápida persistência do cliente, enquanto sessions são mais seguras e armazenam os dados no servidor.
+
+### Registrar preferências do usuário
+
+Para esse tipo de situação, os cookies são os mais indicados e utilizados. Informações como preferências de idioma, tema (claro/escuro), categorias/produtos favoritos, etc. não são consideradas dados sensíveis, portanto não há necessidade das sessions, caso contrário, o servidor poderia ficar sobrecarregado de dados que não pedem por segurança e controle maiores.
 
 ---
 
