@@ -18,6 +18,6 @@ Explicação: sempre-viva é uma flor que representa a vida e é encontrada em t
 
 ### INSPIRAÇÕES: 
 
-![Inspiração para a logo](logo/logo.jpeg)
+![Inspiração para a logo](../logo/logo.jpeg)
 
-![Inspiração para telas e cores](imagens/inspiracao.jpeg)
+![Inspiração para telas e cores](../imagens/inspiracao.jpeg)
