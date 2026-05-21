@@ -9,16 +9,23 @@ Explicação: sempre-viva é uma flor que representa a vida e é encontrada em t
 ### DADOS FICTÍCIOS DA EMPRESA:
 #### - Nome: 
 Sempre-viva
+
 #### - Telefone: 
 (11) 98765-4321
+
 #### - E-mail: 
 contato@sempreviva.com.br
+
 #### - Endereço: 
 Avenida Pêssego Lima Faria, 2200 – Itaquim Blibli, São Paulo – SP, CEP 01451-000
+
 #### - Redes sociais: 
 Instagram: @sempreviva
+
 Facebook: facebook.com/semprevivaoficial
+
 LinkedIn: linkedin.com/company/sempreviva
+
 X/Twitter: @sempreviva_oficial
 
 ### OBJETIVO: auxílio na melhora da saúde da população (incentivo da alimentação correta, pratica de atividades físicas, etc.) 
