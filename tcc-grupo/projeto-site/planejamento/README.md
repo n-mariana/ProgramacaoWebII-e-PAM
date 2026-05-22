@@ -5,10 +5,9 @@ Promovendo alimentação saudável, prática de esportes e bem-estar para toda a
 
 ---
 
-## 📋 Nomes
-- Sempre-viva  
-- Gérberas  
-
+## 📋 Explicação da escolha do nome
+- A flor Sempre-viva foi escolhida como símbolo da empresa porque representa, acima de tudo, a vida. Seu nome e sua característica única — permanecer bonita mesmo após secar — traduzem uma mensagem poderosa de resistência, continuidade e beleza duradoura.A beleza da Sempre-viva após a seca é comparável ao processo de envelhecimento saudável: quando se investe em alimentação equilibrada, prática de atividades físicas e cuidados médicos, a vida se mantém plena e significativa.
+  
 ---
 
 ## 🎯 Tema
