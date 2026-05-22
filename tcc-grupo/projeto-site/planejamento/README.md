@@ -1,47 +1,79 @@
-## EMPRESA EM PARCERIA COM O MINISTÉRIO PÚBLICO DE SAÚDE  
+# 🌱 Sempre-viva
 
-### TEMA: alimentação, saúde e esportes (saúde da população brasileira como um todo).
+**Empresa em parceria com o Ministério Público de Saúde**  
+Promovendo alimentação saudável, prática de esportes e bem-estar para toda a população brasileira.
 
-### NOME: SEMPRE-VIVA 
+---
 
-Explicação: sempre-viva é uma flor que representa a vida e é encontrada em territorio brasileiro, combina com o site por ele ser em parceria com o governo.
+## 📋 Nomes
+- Sempre-viva  
+- Gérberas  
 
-### DADOS FICTÍCIOS DA EMPRESA:
-#### - Nome: 
-Sempre-viva
+---
 
-#### - Telefone: 
-(11) 98765-4321
+## 🎯 Tema
+Alimentação, saúde e esportes — com foco na saúde da população brasileira como um todo.
 
-#### - E-mail: 
-contato@sempreviva.com.br
+---
 
-#### - Endereço: 
-Avenida Pêssego Lima Faria, 2200 – Itaquim Blibli, São Paulo – SP, CEP 01451-000
+## 💡 Proposta
 
-#### - Redes sociais: 
-Instagram: @sempreviva
+### Objetivo
+Auxiliar na melhora da saúde da população por meio do incentivo à alimentação correta e à prática de atividades físicas.
 
-Facebook: facebook.com/semprevivaoficial
+### O que o usuário encontrará
+- Cadastro e ficha de saúde personalizada  
+- Sugestão de receitas e alimentos saudáveis  
+- Opção de montar dietas com auxílio de profissionais  
+- Sugestão de atividades físicas e esportes  
+- Montagem de planos de treino acompanhados por profissionais  
+- Agendamento de consultas (setor público e privado)
 
-LinkedIn: linkedin.com/company/sempreviva
+### Problema a ser resolvido
+- Falta da prática de atividade física  
+- Má alimentação  
 
-X/Twitter: @sempreviva_oficial
+### Informações/Serviços
+- Sugestão de receitas saudáveis e atividades físicas personalizadas  
+- Acesso a agendamento de consultas (público/privado via convênios)  
 
-### OBJETIVO: auxílio na melhora da saúde da população (incentivo da alimentação correta, pratica de atividades físicas, etc.) 
+---
 
-### O QUE O USUÁRIO ENCONTRARÁ: cadastro,  ficha de saúde (preenchida pelo usuário), tela de sugestão de receitas/alimentos saudáveis (bem como a opção de montar uma dieta com auxílio de profissionais), tela de sugestão de atividades físicas/esportes (ou montagem de um plano de treinos acompanhado por um profissional), tela de agendamento à consultas, 
+## 👥 Público
+População brasileira em geral.
 
-### PROBLEMA A SER RESOLVIDO: falta da pratica de atividade física e má alimentação no Brasil. 
+---
 
-### INFORMAÇÕES/SERVIÇOS:  serviços: sugestão de receitas saudáveis e atividades físicas/esportes (específicas para cada usuário), acesso a agendamento de consultas (setor público/privado por meio de planos de saúde), 
+## 🎨 Identidade Visual
 
-### PÚBLICO-ALVO: população brasileira 
+- **Cores principais:** dois tons de verde (escuro e claro) + creme  
+- **Fontes:** a definir  
+- **Logo:** ícone da flor sempre-viva + nome e slogan  
 
-### INSPIRAÇÕES: 
+---
 
-#### Inspiração para a logo
-![Inspiração para a logo](../logo/logo.jpeg)
+## 📞 Contato (dados fictícios)
 
-#### Inspiração para telas e cores que serão utilizadas no site
-![Inspiração para telas e cores que serão utilizadas no site](../imagens/inspiracao.jpeg)
+- **Telefone:** [ +55 11 98765-4321 ](tel:+5511987654321)  
+- **E-mail:** contato@sempreviva.com.br  
+- **Endereço:** Av. Pêssego 256  
+- **Redes sociais:** @sempreviva  
+
+---
+
+## 🌐 Estrutura inicial do site
+
+### Página Inicial
+- Texto apresentando a empresa e sua proposta  
+- Botão para cadastro/login  
+
+### Página de Cadastro
+- Informações fornecidas pelo usuário: CPF, e-mail, sexo, idade, altura, peso, nome completo e endereço  
+- Opção de marcar convênio médico e fornecer número da carteirinha  
+
+### Página de Serviços
+- Acesso a todos os serviços disponibilizados pela empresa  
+- Elaboração de treinos e dietas por profissionais da plataforma  
+- Consultas via convênio médico  
+
+---
