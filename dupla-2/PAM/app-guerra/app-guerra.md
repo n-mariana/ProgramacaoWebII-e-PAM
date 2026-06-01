@@ -219,3 +219,8 @@ Restante da página:
 
 
 <img width="300" height="630" alt="image" src="https://github.com/user-attachments/assets/090bef56-eb4e-4345-b889-317788f896bc" />
+
+Código:
+
+
+<img width="300" height="630" alt="image" src="https://github.com/user-attachments/assets/aab7a16f-6ad5-4cdb-80a4-427dbc341892" />
