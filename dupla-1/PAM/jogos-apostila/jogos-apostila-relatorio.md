@@ -21,12 +21,12 @@ Desenvolvimento de Sistemas
 O jogo mostra as coordenadas do celular de acordo com os eixos x, y e z, conforme o celular se move. Quando o celular é chacoalhado as cores do fundo das coordenadas mudam.
 
 ### Print da Tela
-![Page1](imagens/acelerometro/pg1.png)
-![Page2](imagens/acelerometro/pg2.png)
-![Page3](imagens/acelerometro/pg3.png)
+![Page1](Imagens/Acelerometro/pg1.png)
+![Page2](Imagens/Acelerometro/pg2.png)
+![Page3](Imagens/Acelerometro/pg3.png)
 
 ### Print dos Blocos
-![PageBlock](imagens/acelerometro/block.jpeg)
+![PageBlock](Imagens/Acelerometro/block.jpeg)
 
 ---
 
@@ -36,11 +36,11 @@ O jogo mostra as coordenadas do celular de acordo com os eixos x, y e z, conform
 O jogo tem como objetivo colocar a bola dentro do buraco, usando a função do acelerômetro do APP Inventor. A bola deve tocar no buraco 20 vezes dentro de 1 minuto. Se a pessoa não conseguir, aparece uma mensagem de game over e o jogo recomeça.
 
 ### Print da Tela
-![Page1](imagens/magicball/pg1.png)
-![Page2](imagens/magicball/pg2.png)
+![Page1](Imagens/magicball/pg1.png)
+![Page2](Imagens/magicball/pg2.png)
 
 ### Print dos Blocos
-![PageBlock](imagens/magicball/Block.jpeg)
+![PageBlock](Imagens/magicball/Block.jpeg)
 
 ---
 
@@ -50,11 +50,11 @@ O jogo tem como objetivo colocar a bola dentro do buraco, usando a função do a
 O jogo consiste em clicar no botão "sortear" onde um número é sorteado aleatoriamente, como um dado de verdade.
 
 ### Print da Tela
-![Page1](imagens/dado/pg1.png)
-![Page2](imagens/dado/pg2.png)
+![Page1](Imagens/Dado/pg1.png)
+![Page2](Imagens/Dado/pg2.png)
 
 ### Print dos Blocos
-![PageBlock](imagens/dado/Block.png)
+![PageBlock](Imagens/Dado/Block.png)
 
 ---
 
@@ -64,13 +64,13 @@ O jogo consiste em clicar no botão "sortear" onde um número é sorteado aleato
 O jogo representa contas de mais(+), menos(-) e multiplicação(*). Se a pessoa acertaro resultado da conta aparece uma mensagem "Você acertou!" sendo somado um ponto aos acertos. Se ela errar, aparece uma mensagem "Você errou! O resultado correto seria: (resposta correta)" sendo somado um ponto aos erros.
 
 ### Print da Tela
-![Page1](imagens/adivinha/pg1.png)
-![Page2](imagens/adivinha/pg2.png)
-![Page3](imagens/adivinha/pg3.png)
-![Page4](imagens/adivinha/pg4.png)
+![Page1](Imagens/Adivinha/pg1.png)
+![Page2](Imagens/Adivinha/pg2.png)
+![Page3](Imagens/Adivinha/pg3.png)
+![Page4](Imagens/Adivinha/pg4.png)
 
 ### Print dos Blocos
-![PageBlock](imagens/adivinha/block.jpeg)
+![PageBlock](Imagens/Adivinha/block.jpeg)
 
 ---
 
@@ -80,12 +80,12 @@ O jogo representa contas de mais(+), menos(-) e multiplicação(*). Se a pessoa 
 Quando o jogo começa, a bolinha rebate na barra vermelha e o objetivo é acertar os blocos cinzas na parte de cima da tela. Quando um bloco é quebrado, é somado um ponto. E quando todos os cinco blocos iniciais são quebrados eles reaparecem, continuando assim o jogo.
 
 ### Print da Tela
-![Page1](imagens/pongmaster/pg1.png)
-![Page2](imagens/pongmaster/pg2.png)
-![Page3](imagens/pongmaster/pg3.png)
+![Page1](Imagens/pongmaster/pg1.png)
+![Page2](Imagens/pongmaster/pg2.png)
+![Page3](Imagens/pongmaster/pg3.png)
 
 ### Print dos Blocos
-![PageBlock](imagens/pongmaster/block.png)
+![PageBlock](Imagens/pongmaster/block.png)
 
 ---
 
@@ -95,7 +95,7 @@ Quando o jogo começa, a bolinha rebate na barra vermelha e o objetivo é acerta
 O objetivo do jogo é acertar a bola branca dentro das caçapas da imagem da mesa. Tanto a bola branca, quanto as caçapas são feitas com "ball" do APP Inventor. Quando eles colidem, a bola volta para o meio da tela.
 
 ### Print da Tela
-![Page1](imagens/bilharzinho/pg1.png)
+![Page1](Imagens/Bilharzinho/pg1.png)
 
 ### Print dos Blocos
-![PageBlock](imagens/bilharzinho/block.jpeg)
+![PageBlock](Imagens/Bilharzinho/block.jpeg)
